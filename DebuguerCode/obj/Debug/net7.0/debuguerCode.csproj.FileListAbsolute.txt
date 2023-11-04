@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\bin\Debug\net7.0\debuguerCode.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\bin\Debug\net7.0\debuguerCode.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\bin\Debug\net7.0\debuguerCode.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\bin\Debug\net7.0\debuguerCode.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\bin\Debug\net7.0\debuguerCode.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\refint\debuguerCode.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\debuguerCode.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DebuguerCode\obj\Debug\net7.0\ref\debuguerCode.dll

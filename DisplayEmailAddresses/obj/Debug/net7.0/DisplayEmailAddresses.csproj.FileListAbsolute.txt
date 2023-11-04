@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\bin\Debug\net7.0\DisplayEmailAddresses.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\bin\Debug\net7.0\DisplayEmailAddresses.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\bin\Debug\net7.0\DisplayEmailAddresses.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\bin\Debug\net7.0\DisplayEmailAddresses.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\bin\Debug\net7.0\DisplayEmailAddresses.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\refint\DisplayEmailAddresses.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\DisplayEmailAddresses.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\DisplayEmailAddresses\obj\Debug\net7.0\ref\DisplayEmailAddresses.dll

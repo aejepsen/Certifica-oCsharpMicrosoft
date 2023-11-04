@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\bin\Debug\net7.0\LancarDados.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\bin\Debug\net7.0\LancarDados.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\bin\Debug\net7.0\LancarDados.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\bin\Debug\net7.0\LancarDados.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\bin\Debug\net7.0\LancarDados.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\refint\LancarDados.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\LancarDados.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\LancarDados\obj\Debug\net7.0\ref\LancarDados.dll

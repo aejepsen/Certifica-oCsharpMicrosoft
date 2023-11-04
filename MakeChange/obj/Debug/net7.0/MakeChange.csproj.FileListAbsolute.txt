@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\bin\Debug\net7.0\MakeChange.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\bin\Debug\net7.0\MakeChange.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\bin\Debug\net7.0\MakeChange.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\bin\Debug\net7.0\MakeChange.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\bin\Debug\net7.0\MakeChange.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\refint\MakeChange.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\MakeChange.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\MakeChange\obj\Debug\net7.0\ref\MakeChange.dll

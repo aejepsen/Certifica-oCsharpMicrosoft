@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\bin\Debug\net7.0\ContosoShopingCenter.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\bin\Debug\net7.0\ContosoShopingCenter.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\bin\Debug\net7.0\ContosoShopingCenter.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\bin\Debug\net7.0\ContosoShopingCenter.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\bin\Debug\net7.0\ContosoShopingCenter.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\refint\ContosoShopingCenter.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ContosoShopingCenter.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoShopingCenter\obj\Debug\net7.0\ref\ContosoShopingCenter.dll

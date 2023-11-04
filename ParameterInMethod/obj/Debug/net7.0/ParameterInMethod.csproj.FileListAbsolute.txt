@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\bin\Debug\net7.0\ParameterInMethod.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\bin\Debug\net7.0\ParameterInMethod.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\bin\Debug\net7.0\ParameterInMethod.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\bin\Debug\net7.0\ParameterInMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\bin\Debug\net7.0\ParameterInMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\refint\ParameterInMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ParameterInMethod.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ParameterInMethod\obj\Debug\net7.0\ref\ParameterInMethod.dll

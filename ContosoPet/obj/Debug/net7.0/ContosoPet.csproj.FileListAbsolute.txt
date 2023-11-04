@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\bin\Debug\net7.0\ContosoPet.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\bin\Debug\net7.0\ContosoPet.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\bin\Debug\net7.0\ContosoPet.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\bin\Debug\net7.0\ContosoPet.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\bin\Debug\net7.0\ContosoPet.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\refint\ContosoPet.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ContosoPet.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ContosoPet\obj\Debug\net7.0\ref\ContosoPet.dll

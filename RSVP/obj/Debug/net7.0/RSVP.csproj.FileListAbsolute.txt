@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\bin\Debug\net7.0\RSVP.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\bin\Debug\net7.0\RSVP.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\bin\Debug\net7.0\RSVP.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\bin\Debug\net7.0\RSVP.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\bin\Debug\net7.0\RSVP.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\refint\RSVP.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\RSVP.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\RSVP\obj\Debug\net7.0\ref\RSVP.dll
