@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\bin\Debug\net7.0\IsPalindromo.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\bin\Debug\net7.0\IsPalindromo.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\bin\Debug\net7.0\IsPalindromo.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\bin\Debug\net7.0\IsPalindromo.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\bin\Debug\net7.0\IsPalindromo.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\refint\IsPalindromo.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\IsPalindromo.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsPalindromo\obj\Debug\net7.0\ref\IsPalindromo.dll

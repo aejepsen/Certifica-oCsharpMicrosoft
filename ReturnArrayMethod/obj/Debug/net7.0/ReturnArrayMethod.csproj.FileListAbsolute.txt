@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\bin\Debug\net7.0\ReturnArrayMethod.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\bin\Debug\net7.0\ReturnArrayMethod.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\bin\Debug\net7.0\ReturnArrayMethod.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\bin\Debug\net7.0\ReturnArrayMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\bin\Debug\net7.0\ReturnArrayMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\refint\ReturnArrayMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ReturnArrayMethod.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ReturnArrayMethod\obj\Debug\net7.0\ref\ReturnArrayMethod.dll
