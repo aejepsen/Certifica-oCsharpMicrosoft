@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\bin\Debug\net7.0\IsValidIpv4.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\bin\Debug\net7.0\IsValidIpv4.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\bin\Debug\net7.0\IsValidIpv4.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\bin\Debug\net7.0\IsValidIpv4.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\bin\Debug\net7.0\IsValidIpv4.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\refint\IsValidIpv4.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\IsValidIpv4.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\IsValidIpv4\obj\Debug\net7.0\ref\IsValidIpv4.dll
