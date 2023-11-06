@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\bin\Debug\net7.0\GamePlayable.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\bin\Debug\net7.0\GamePlayable.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\bin\Debug\net7.0\GamePlayable.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\bin\Debug\net7.0\GamePlayable.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\bin\Debug\net7.0\GamePlayable.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\refint\GamePlayable.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\GamePlayable.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\GamePlayable\obj\Debug\net7.0\ref\GamePlayable.dll

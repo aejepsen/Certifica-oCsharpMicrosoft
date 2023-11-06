@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\bin\Debug\net7.0\ExchangeCurrency.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\bin\Debug\net7.0\ExchangeCurrency.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\bin\Debug\net7.0\ExchangeCurrency.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\bin\Debug\net7.0\ExchangeCurrency.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\bin\Debug\net7.0\ExchangeCurrency.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\refint\ExchangeCurrency.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ExchangeCurrency.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ExchangeCurrency\obj\Debug\net7.0\ref\ExchangeCurrency.dll

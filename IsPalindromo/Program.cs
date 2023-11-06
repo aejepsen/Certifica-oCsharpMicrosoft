@@ -2,7 +2,24 @@
 
 foreach (var item in palindromos)
 {
-    Console.WriteLine($"{item} = {ReverseArray(item)} is {IsPalindrome(item)}");
+    Console.WriteLine($"{item} = {ReverseArray(item)} is {IsPalindrome(item)} is {IsPalindrome2(item)}");
+}
+
+bool IsPalindrome2(string input)
+{
+    int start = 0;
+    int end = input.Length - 1;
+
+    while(start < end)
+    {
+        if(input[start] != input[end])
+        {
+            return false;
+        }
+        start++;
+        end--;       
+    }
+    return true;
 }
 
 bool IsPalindrome(string input)

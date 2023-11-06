@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\bin\Debug\net7.0\ZooContoso.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\bin\Debug\net7.0\ZooContoso.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\bin\Debug\net7.0\ZooContoso.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\bin\Debug\net7.0\ZooContoso.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\bin\Debug\net7.0\ZooContoso.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\refint\ZooContoso.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ZooContoso.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\ZooContoso\obj\Debug\net7.0\ref\ZooContoso.dll

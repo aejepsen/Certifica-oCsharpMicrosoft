@@ -1,0 +1,22 @@
+- O código declara as seguintes variáveis:
+     - Variáveis para determinar o tamanho da janela do Terminal.
+     - Variáveis para rastrear a localização do jogador e da comida.
+     - Arrays `states` e `foods` para fornecer aparências de jogadores e alimentos disponíveis
+     - Variáveis para rastrear o jogador atual e a aparência dos alimentos
+
+- O código fornece os seguintes métodos:
+     - Um método para determinar se a janela do Terminal foi redimensionada.
+     - Um método para exibir uma aparência aleatória de comida em um local aleatório.
+     - Um método que altera a aparência do jogador para combinar com a comida consumida.
+     - Um método que congela temporariamente o movimento do jogador.
+     - Um método que move o jogador de acordo com a entrada direcional.
+     - Um método que configura o estado inicial do jogo.
+
+- O código não chama os métodos corretamente para tornar o jogo jogável. Os seguintes recursos estão faltando:
+     - Código para determinar se o jogador consumiu o alimento exibido.
+     - Código para determinar se a comida consumida deve congelar o movimento do jogador.
+     - Código para determinar se a comida consumida deve aumentar a movimentação do jogador.
+     - Código para aumentar a velocidade de movimento.
+     - Código para reexibir a comida após ser consumida pelo jogador.
+     - Código para encerrar a execução se uma chave não suportada for inserida.
+     - Código para encerrar a execução caso o terminal tenha sido redimensionado.
