@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\bin\Debug\net7.0\FirstMethod.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\bin\Debug\net7.0\FirstMethod.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\bin\Debug\net7.0\FirstMethod.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\bin\Debug\net7.0\FirstMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\bin\Debug\net7.0\FirstMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\refint\FirstMethod.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\FirstMethod.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\FirstMethod\obj\Debug\net7.0\ref\FirstMethod.dll
