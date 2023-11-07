@@ -1,0 +1,14 @@
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\bin\Debug\net7.0\StringHelperMethods.exe
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\bin\Debug\net7.0\StringHelperMethods.deps.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\bin\Debug\net7.0\StringHelperMethods.runtimeconfig.json
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\bin\Debug\net7.0\StringHelperMethods.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\bin\Debug\net7.0\StringHelperMethods.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.AssemblyInfoInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.AssemblyInfo.cs
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\refint\StringHelperMethods.dll
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.pdb
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\StringHelperMethods.genruntimeconfig.cache
+C:\Users\ajepsen\Documents\Certificação C# Microsoft\StringHelperMethods\obj\Debug\net7.0\ref\StringHelperMethods.dll
